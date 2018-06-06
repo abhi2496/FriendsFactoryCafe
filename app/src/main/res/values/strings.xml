@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Friends Factory Cafe</string>
+    <string name="call">CALL</string>
+    <string name="website">WEBSITE</string>
+    <string name="directions">DIRECTIONS</string>
+    <string name="aboutUs">About Us</string>
+    <string name="desc">Welcome to Friends Factory Cafe!\nDine with your friends and enjoy the delicious food while playing games and some fun filled moments.</string>
+    <string name="timings">Timings :</string>
+    <string name="time">10:00 AM - 8:30 PM</string>
+    <string name="phoneNumber">07487888730</string>
+    <string name="websiteURL">http://business.google.com/website/friends-factory-cafe/</string>
+    <string name="locationURL">https://goo.gl/maps/2WLVcwLvBQs</string>
+</resources>

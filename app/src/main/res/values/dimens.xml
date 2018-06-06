@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="commonMargin">8dp</dimen>
+    <dimen name="leftMargin">16dp</dimen>
+    <dimen name="rightMargin">16dp</dimen>
+    <dimen name="weight1">1</dimen>
+    <dimen name="weight2">2</dimen>
+    <dimen name="weight3">3</dimen>
+    <dimen name="textNormal">16sp</dimen>
+    <dimen name="textBig">18sp</dimen>
+    <dimen name="textHeading">24sp</dimen>
+    <dimen name="height2dp">2dp</dimen>
+    <dimen name="width0dp">0dp</dimen>
+</resources>
